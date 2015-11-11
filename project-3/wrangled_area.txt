@@ -1,0 +1,13 @@
+MapZen Metro Extract for Cincinnati, Ohio, USA downloaded 5 Nov 2015
+
+Cincinnati, Ohio, USA map on OpenStreetMap.org:
+https://www.openstreetmap.org/relation/183453
+
+The area wrangled for this project includes all of Cincinnati proper as 
+well as many of its suburbs, some of which lie in Kentucky and Indiana. 
+The region goes approximately as far north as Trenton, OH, as far east 
+as Batavia, OH, as far south as Walton, KY, and as far west as the western 
+edge of the  I-275 loop (in Indiana).
+
+I selected this map area because I am a native Ohioan who has been living
+in various parts of the Cincinnati area for about 10 years.

@@ -1,0 +1,34 @@
+References.
+
+City of Cincinnati Street Guide (PDF).
+http://www.cincinnati-oh.gov/finance/linkservid/B0AF3105-9719-1148-6A07F06DB5F9FE52/showMeta/0/
+
+City of Cincinnati: Street Listings Guide.
+http://www.cincinnati-oh.gov/finance/income-taxes/resources-references/street-listings-guide/
+
+The ElementTree iterparse Function: Incremental Parsing.
+http://effbot.org/zone/element-iterparse.htm#incremental-parsing
+
+MapZen: So You Want To Use A Metro Extract.
+https://mapzen.com/blog/metro-extracts-101
+
+OpenStreetMap Wiki: Key:amenity.
+http://wiki.openstreetmap.org/wiki/Key:amenity
+
+OpenStreetMap Wiki: Key:highway.
+http://wiki.openstreetmap.org/wiki/Key:highway
+
+OpenStreetMap Wiki: Key:service.
+http://wiki.openstreetmap.org/wiki/Key:service
+
+OpenStreetMap Wiki: OSM XML.
+https://wiki.openstreetmap.org/wiki/OSM_XML
+
+OpenStreetMap Wiki: TIGER.
+https://wiki.openstreetmap.org/wiki/TIGER
+
+OpenStreetMap Wiki: USGS GNIS.
+https://wiki.openstreetmap.org/wiki/USGS_GNIS
+
+The Python Standard Library: Regular Expression operations.
+https://docs.python.org/2/library/re.html
