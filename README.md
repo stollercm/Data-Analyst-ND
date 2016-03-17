@@ -23,7 +23,7 @@
 
 * modules: ElementTree, PyMongo.
 
-#### Project 4: Explore and Summary White Wine Quality Data.
+#### Project 4: Explore and Summarize White Wine Quality Data.
 
 * Udacity Course: Data Analysis with R.
 
