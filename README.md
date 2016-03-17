@@ -22,3 +22,11 @@
 * Analysis for project completed using Python, MongoDB, and Excel.
 
 * modules: ElementTree, PyMongo.
+
+#### Project 4: Explore and Summarize White Wine Quality Data.
+
+* Udacity Course: Data Analysis with R.
+
+* Analysis for project completed using R.
+
+* modules: ggplot2.
