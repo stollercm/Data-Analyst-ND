@@ -1,0 +1,37 @@
+<html>
+<head>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.2.0.min.js"></script>
+
+  <style type="text/css">
+    *{
+      font-family: 'Lato', sans-serif;
+    }
+    h1 {
+      text-align: center;
+        }
+  </style>
+
+  <title>Jobs in the US: Millennials vs Baby Boomers</title>
+</head>
+<div id="title">
+  <h1>Change in Jobs for Baby Boomers and Millennials, 2007-2013</h1>
+</div>
+<div id="chartContainer">
+  <script type="text/javascript">
+    var svg = dimple.newSvg("#chartContainer", 850, 750);
+    d3.csv("EMSI_MillenialsvsBabyBoomers_long.csv", function (data) {
+      var myChart = new dimple.chart(svg, data);
+      myChart.setBounds(60, 30, 700, 400)
+      var x = myChart.addCategoryAxis("x", ["Occupation","Year"]);
+      myChart.addMeasureAxis("y", "Jobs");
+      myChart.addSeries("Generation", dimple.plot.bar);
+      myChart.addLegend(200, 10, 510, 20, "right");
+      myChart.draw();
+    });
+  </script>
+</div>
+<body>
+  Source: <a href="http://www.economicmodeling.com/">Emsi, a CareerBuilder Company</a> via <a href="https://public.tableau.com/s/resources">Tableau Public</a>
+</body>
+</html>

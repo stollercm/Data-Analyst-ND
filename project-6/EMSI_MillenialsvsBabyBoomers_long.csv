@@ -1,0 +1,93 @@
+First 2 of SOC,SOC,Occupation,Generation,Jobs,Year,Share of All Jobs
+11,11-0000,Management,Baby Boomer,1465399,2007,18%
+11,11-0000,Management,Millennial,1555952,2007,19%
+13,13-0000,Business and Financial Operations,Baby Boomer,1099023,2007,15%
+13,13-0000,Business and Financial Operations,Millennial,1992479,2007,28%
+15,15-0000,Computer and Mathematical,Baby Boomer,372843,2007,10%
+15,15-0000,Computer and Mathematical,Millennial,1205652,2007,33%
+17,17-0000,Architecture and Engineering,Baby Boomer,422861,2007,16%
+17,17-0000,Architecture and Engineering,Millennial,662470,2007,25%
+19,19-0000,"Life, Physical, and Social Science",Baby Boomer,189040,2007,16%
+19,19-0000,"Life, Physical, and Social Science",Millennial,312140,2007,27%
+21,21-0000,Community and Social Service,Baby Boomer,419589,2007,19%
+21,21-0000,Community and Social Service,Millennial,571034,2007,25%
+23,23-0000,Legal,Baby Boomer,214033,2007,16%
+23,23-0000,Legal,Millennial,335642,2007,26%
+25,25-0000,"Education, Training, and Library",Baby Boomer,1666597,2007,19%
+25,25-0000,"Education, Training, and Library",Millennial,2051515,2007,24%
+27,27-0000,"Arts, Design, Entertainment, Sports, and Media",Baby Boomer,355964,2007,13%
+27,27-0000,"Arts, Design, Entertainment, Sports, and Media",Millennial,814043,2007,30%
+29,29-0000,Healthcare Practitioners and Technical,Baby Boomer,1161066,2007,15%
+29,29-0000,Healthcare Practitioners and Technical,Millennial,1944312,2007,26%
+31,31-0000,Healthcare Support,Baby Boomer,462450,2007,12%
+31,31-0000,Healthcare Support,Millennial,1225658,2007,32%
+33,33-0000,Protective Service,Baby Boomer,549128,2007,16%
+33,33-0000,Protective Service,Millennial,799790,2007,24%
+35,35-0000,Food Preparation and Serving Related,Baby Boomer,715561,2007,6%
+35,35-0000,Food Preparation and Serving Related,Millennial,3638345,2007,32%
+37,37-0000,Building and Grounds Cleaning and Maintenance,Baby Boomer,876401,2007,15%
+37,37-0000,Building and Grounds Cleaning and Maintenance,Millennial,1333020,2007,23%
+39,39-0000,Personal Care and Service,Baby Boomer,688295,2007,13%
+39,39-0000,Personal Care and Service,Millennial,1451425,2007,28%
+41,41-0000,Sales and Related,Baby Boomer,2093226,2007,13%
+41,41-0000,Sales and Related,Millennial,4431037,2007,27%
+43,43-0000,Office and Administrative Support,Baby Boomer,3591385,2007,15%
+43,43-0000,Office and Administrative Support,Millennial,6630203,2007,28%
+45,45-0000,"Farming, Fishing, and Forestry",Baby Boomer,116155,2007,10%
+45,45-0000,"Farming, Fishing, and Forestry",Millennial,322034,2007,29%
+47,47-0000,Construction and Extraction,Baby Boomer,853148,2007,10%
+47,47-0000,Construction and Extraction,Millennial,2494960,2007,31%
+49,49-0000,"Installation, Maintenance, and Repair",Baby Boomer,865447,2007,15%
+49,49-0000,"Installation, Maintenance, and Repair",Millennial,1453597,2007,25%
+51,51-0000,Production,Baby Boomer,1461071,2007,14%
+51,51-0000,Production,Millennial,2484504,2007,25%
+53,53-0000,Transportation and Material Moving,Baby Boomer,1374052,2007,14%
+53,53-0000,Transportation and Material Moving,Millennial,2524305,2007,25%
+55,55-0000,Military,Baby Boomer,345089,2007,17%
+55,55-0000,Military,Millennial,563376,2007,28%
+11,11-0000,Management,Baby Boomer,1506812,2013,19%
+11,11-0000,Management,Millennial,1461670,2013,18%
+13,13-0000,Business and Financial Operations,Baby Boomer,1225149,2013,17%
+13,13-0000,Business and Financial Operations,Millennial,1981010,2013,27%
+15,15-0000,Computer and Mathematical,Baby Boomer,446730,2013,11%
+15,15-0000,Computer and Mathematical,Millennial,1230220,2013,32%
+17,17-0000,Architecture and Engineering,Baby Boomer,462564,2013,18%
+17,17-0000,Architecture and Engineering,Millennial,593064,2013,24%
+19,19-0000,"Life, Physical, and Social Science",Baby Boomer,214879,2013,18%
+19,19-0000,"Life, Physical, and Social Science",Millennial,328219,2013,27%
+21,21-0000,Community and Social Service,Baby Boomer,457468,2013,19%
+21,21-0000,Community and Social Service,Millennial,615626,2013,26%
+23,23-0000,Legal,Baby Boomer,222448,2013,18%
+23,23-0000,Legal,Millennial,320408,2013,26%
+25,25-0000,"Education, Training, and Library",Baby Boomer,1697604,2013,19%
+25,25-0000,"Education, Training, and Library",Millennial,2114982,2013,25%
+27,27-0000,"Arts, Design, Entertainment, Sports, and Media",Baby Boomer,374103,2013,14%
+27,27-0000,"Arts, Design, Entertainment, Sports, and Media",Millennial,788864,2013,30%
+29,29-0000,Healthcare Practitioners and Technical,Baby Boomer,1413668,2013,17%
+29,29-0000,Healthcare Practitioners and Technical,Millennial,2157397,2013,27%
+31,31-0000,Healthcare Support,Baby Boomer,584837,2013,14%
+31,31-0000,Healthcare Support,Millennial,1416322,2013,33%
+33,33-0000,Protective Service,Baby Boomer,564740,2013,17%
+33,33-0000,Protective Service,Millennial,828819,2013,24%
+35,35-0000,Food Preparation and Serving Related,Baby Boomer,858635,2013,7%
+35,35-0000,Food Preparation and Serving Related,Millennial,4283180,2013,35%
+37,37-0000,Building and Grounds Cleaning and Maintenance,Baby Boomer,966863,2013,16%
+37,37-0000,Building and Grounds Cleaning and Maintenance,Millennial,1386529,2013,23%
+39,39-0000,Personal Care and Service,Baby Boomer,808370,2013,14%
+39,39-0000,Personal Care and Service,Millennial,1654558,2013,29%
+41,41-0000,Sales and Related,Baby Boomer,2275446,2013,14%
+41,41-0000,Sales and Related,Millennial,4504482,2013,28%
+43,43-0000,Office and Administrative Support,Baby Boomer,3937939,2013,17%
+43,43-0000,Office and Administrative Support,Millennial,6389681,2013,27%
+45,45-0000,"Farming, Fishing, and Forestry",Baby Boomer,124627,2013,11%
+45,45-0000,"Farming, Fishing, and Forestry",Millennial,337045,2013,30%
+47,47-0000,Construction and Extraction,Baby Boomer,827748,2013,12%
+47,47-0000,Construction and Extraction,Millennial,2016673,2013,29%
+49,49-0000,"Installation, Maintenance, and Repair",Baby Boomer,946602,2013,17%
+49,49-0000,"Installation, Maintenance, and Repair",Millennial,1378460,2013,24%
+51,51-0000,Production,Baby Boomer,1531321,2013,17%
+51,51-0000,Production,Millennial,2167981,2013,24%
+53,53-0000,Transportation and Material Moving,Baby Boomer,1505802,2013,16%
+53,53-0000,Transportation and Material Moving,Millennial,2379228,2013,26%
+55,55-0000,Military,Baby Boomer,349133,2013,17%
+55,55-0000,Military,Millennial,572994,2013,27%
