@@ -30,3 +30,9 @@
 * Analysis for project completed using R.
 
 * modules: ggplot2.
+
+#### Project 6: Make Effective Data Visualization.
+
+* Udacity Course: Data Visualization with D3.js.
+
+* Analysis for project completed using Dimple.js, HTML, CSS, and JavaScript.
