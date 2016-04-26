@@ -25,7 +25,9 @@ of the bars to the generation categories. This was close, but lacked the scale
 of each category, so you had no sense of what those job growth numbers meant in
 the greater market. Finally, I used raw job change values, maintaining the rate
 information in the tooltips. This combination of length and direction make the
-discrepancies in job change between groups very clear. 
+discrepancies in job change between groups very clear. It shows the magnitude
+of any change as well as gives context to the size of the category through the
+combination of the visual cue of length and the growth rate in the tooltip.
 
 ________________________________________________________________________________
 
